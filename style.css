@@ -1,0 +1,103 @@
+.navbar-brand{
+   
+    width:100px;
+     height:100px;
+}
+.nav-item{
+    margin-left:30px;
+
+}
+#boo{
+    background-color:rgb(29, 35, 44);
+}
+h1{
+    color:white;
+    
+}
+.rounded{
+    width:500px;
+    height:250px;
+    margin-left:30px;
+    
+
+}
+#joo{
+    color:white;
+}
+.card-title{
+    color: solid black;
+}
+.container{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.card-body{
+    background-color: #c2b39f;
+    display:rounded;
+
+}
+.card{
+    margin-top: 30px;
+    
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+.card-title{
+    text-align: center;
+}
+.activities{
+    margin-left:50px;
+
+}
+.card-text{
+    color:black;
+}
+.goo{
+    width:80px;
+    height:80px;
+    margin-left:30px;
+}
+#pa{
+    color:white;
+    font-weight: 100px;
+}
+.gooo{
+    height:90px;
+   width:150px;
+   
+   
+}
+.alert alert-primary{
+    width:100px;
+    
+}
+#action{
+    color:white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    
+}
+#lee{
+    color:black;
+}
+
+.boast{
+    color:black;
+}
+.duct{
+    margin-top:30px;
+    width:1oopx;
+    height:100px;
+    margin-left: 50px;
+
+}
+.cla{
+    color:white;
+    margin-left:50px;
+    margin-top:20px;
+}
+.row{
+margin-left: 100px;  
+}
